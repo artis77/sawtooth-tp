@@ -1,0 +1,24 @@
+{
+  "name": "sawtooth-tp",
+  "version": "1.0.0",
+  "description": "transaction processor",
+  "main": "index.js",
+  "dependencies": {
+    "cbor": "^5.0.2",
+    "sawtooth-sdk": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artis77/sawtooth-tp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artis77/sawtooth-tp/issues"
+  },
+  "homepage": "https://github.com/artis77/sawtooth-tp#readme"
+}
